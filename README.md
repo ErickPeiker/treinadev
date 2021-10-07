@@ -1,14 +1,14 @@
-# Sejam bem vindos ao curso b·sico para PROJETOS MARAVILINDOS!
+# Sejam bem vindos ao curso b√°sico para PROJETOS MARAVILINDOS!
 
-## Eu sou Erick Jonathan Peiker - :computer: J· fui desenvolvedor Fullstack!
+## Eu sou Erick Jonathan Peiker - :computer: J√° fui desenvolvedor Fullstack!
 
 <!--ts-->
    * [Requisitos](#Requisitos)
    * [Aulas](#Aulas)
       * [Aula 1 - Containers](#aula-1)
       * [Aula 2 - Projeto Monolito NodeJS](#aula-2)
-      * [Aula 3 - PadronizaÁıes de projetos](#aula-3)
-      * [Aula 4 - Projetos em microserviÁos](#aula-4)
+      * [Aula 3 - Padroniza√ß√µes de projetos](#aula-3)
+      * [Aula 4 - Projetos em microservi√ßos](#aula-4)
       * [Aula 5 - Git e Gitflow](#aula-5)
       * [Aula 6 - Testes automatizados](#aula-6)
       * [Aula 7 - SQL](#aula-7)
@@ -26,20 +26,26 @@
 
 ## Aulas
 
-PeÁo as seguintes contribuiÁıes para nossas conversas serem produtivas:
+Pe√ßo as seguintes contribui√ß√µes para nossas conversas serem produtivas:
 
-N„o chute os amiguinhos
-NINGU…M SABE TUDO, se travou o aovivo, pulamos para outro assunto neste dia
+N√£o chute os amiguinhos
+
+NINGU√âM SABE TUDO, se travou o aovivo, pulamos para outro assunto neste dia
+
 Todas tecnologias e metodologias tem seu lado bom e ruim, menos algumas
-AtenÁ„o AQUI CARALHOOO, se achas que o assunto n„o se encaixa para vocÍ, pergunte primeiro em pr·ticas possÌveis ao seu uso
-Repassem os conhecimentos recebidos, isso n„o È C* pode distribuir a vontade
-Quer saber mais sobre os assuntos, me pague um cafÈ
-Sugestıes de assuntos coloquem na caixinha de perguntas que o Neli postar· no Insta
+
+Aten√ß√£o AQUI CARALHOOO, se achas que o assunto n√£o se encaixa para voc√™, pergunte primeiro em pr√°ticas poss√≠veis ao seu uso
+
+Repassem os conhecimentos recebidos, isso n√£o √© C* pode distribuir a vontade
+
+Quer saber mais sobre os assuntos, me pague um caf√©
+
+Sugest√µes de assuntos coloquem na caixinha de perguntas que o Neli postar√° no Insta
 
 - [ ] Aula 1 - Containers
 - [ ] Aula 2 - Projeto Monolito NodeJS
-- [ ] Aula 3 - PadronizaÁıes de projetos
-- [ ] Aula 4 - Projetos em microserviÁos
+- [ ] Aula 3 - Padroniza√ß√µes de projetos
+- [ ] Aula 4 - Projetos em microservi√ßos
 - [ ] Aula 5 - Git e Gitflow
 - [ ] Aula 6 - Testes automatizados
 - [ ] Aula 7 - SQL
@@ -49,26 +55,26 @@ Sugestıes de assuntos coloquem na caixinha de perguntas que o Neli postar· no In
 
 Vamos iniciar com os [conceitos de containers](https://docs.docker.com/get-started/overview/)
 
-M„o na massa - [Criar e rodar um container](https://docs.docker.com/language/nodejs/build-images/)
+M√£o na massa - [Criar e rodar um container](https://docs.docker.com/language/nodejs/build-images/)
 
-Entendi, mas como faÁo? - [ComunicaÁ„o entre containers e host](https://docs.docker.com/language/nodejs/develop/) 
+Entendi, mas como fa√ßo? - [Comunica√ß√£o entre containers e host](https://docs.docker.com/language/nodejs/develop/) 
 
 
 ## Aula 2
 
 Monolito
-    - AplicaÁ„o
+    - Aplica√ß√£o
     - Banco de dados
     - Proxy
  
-* Qual a import‚ncia do [desing de APIs](https://br.sensedia.com/post/api-rest-design-7-essential-tips)?
+* Qual a import√¢ncia do [desing de APIs](https://br.sensedia.com/post/api-rest-design-7-essential-tips)?
 
-* O que È [API REST](https://ezdevs.com.br/comecando-uma-api-rest-com-node-js/)? 
+* O que √© [API REST](https://ezdevs.com.br/comecando-uma-api-rest-com-node-js/)? 
 
 * O que [ORM](https://www.treinaweb.com.br/blog/o-que-e-orm)? 
  
-* [AplicaÁ„o CRUD](https://expressjs.com/pt-br/starter/hello-world.html)
-    - Usu·rio
+* [Aplica√ß√£o CRUD](https://expressjs.com/pt-br/starter/hello-world.html)
+    - Usu√°rio
     - Tarefas
 
 ## Aula 3
@@ -77,24 +83,24 @@ EM BREVE
 
 ## Aula 4
 
-MicroserviÁos
-    - ServiÁo 1
-    * ServiÁo externo 
+Microservi√ßos
+    - Servi√ßo 1
+    * Servi√ßo externo 
 
 
-    - ServiÁo 2
+    - Servi√ßo 2
     * Banco de dados
 
 
-    - ServiÁo 3
+    - Servi√ßo 3
     * Bancode dados 2
 
 
-    - ServiÁo 4 
+    - Servi√ßo 4 
     * Message Broker
 
 
-    - ServiÁo 5
+    - Servi√ßo 5
     * Gerenciamento de Pipeline
 
 ## Aula 5
