@@ -58,7 +58,7 @@ Entendi, mas como faço? - [Comunicação entre containers e host](https://docs.doc
 
 Monolito
     - Aplicação
-    - Banco de dados
+    - Banco de dados [Mysql](https://hub.docker.com/_/mysql)
     - Proxy
  
 * Qual a importância do [desing de APIs](https://br.sensedia.com/post/api-rest-design-7-essential-tips)?
@@ -66,10 +66,17 @@ Monolito
 * O que é [API REST](https://ezdevs.com.br/comecando-uma-api-rest-com-node-js/)? 
 
 * O que [ORM](https://www.treinaweb.com.br/blog/o-que-e-orm)? 
+
+* [Sequelize](https://sequelize.org/master/)
  
 * [Aplicação CRUD](https://expressjs.com/pt-br/starter/hello-world.html)
-    - Usuário
-    - Tarefas
+
+    Iniciar a instância do Mysql no docker
+    Conectar com um client no Mysql
+    Rodar o script : /aula2/config/script-aula2.sql
+    Rodar o comando : /aula2/config/sequelize-auto.cmd
+
+    - Usuário - E se já tiver a tabela? [A mágica acontece](https://github.com/sequelize/sequelize-auto)
 
 ## Aula 3
 
