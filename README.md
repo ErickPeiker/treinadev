@@ -1,14 +1,14 @@
-# Sejam bem vindos ao curso básico para PROJETOS MARAVILINDOS!
+# Sejam bem vindos ao curso bÃ¡sico para PROJETOS MARAVILINDOS!
 
-## Eu sou Erick Jonathan Peiker - :computer: Já fui desenvolvedor Fullstack!
+## Eu sou Erick Jonathan Peiker - :computer: JÃ¡ fui desenvolvedor Fullstack!
 
 <!--ts-->
    * [Requisitos](#Requisitos)
    * [Aulas](#Aulas)
       * [Aula 1 - Containers](#aula-1)
       * [Aula 2 - Projeto Monolito NodeJS](#aula-2)
-      * [Aula 3 - Padronizações de projetos](#aula-3)
-      * [Aula 4 - Projetos em microserviços](#aula-4)
+      * [Aula 3 - PadronizaÃ§Ãµes de projetos](#aula-3)
+      * [Aula 4 - Projetos em microserviÃ§os](#aula-4)
       * [Aula 5 - Git e Gitflow](#aula-5)
       * [Aula 6 - Testes automatizados](#aula-6)
       * [Aula 7 - SQL](#aula-7)
@@ -26,20 +26,26 @@
 
 ## Aulas
 
-Peço as seguintes contribuições para nossas conversas serem produtivas:
+PeÃ§o as seguintes contribuiÃ§Ãµes para nossas conversas serem produtivas:
 
-Não chute os amiguinhos
-NINGUÉM SABE TUDO, se travou o aovivo, pulamos para outro assunto neste dia
+NÃ£o chute os amiguinhos
+
+NINGUÃ‰M SABE TUDO, se travou o aovivo, pulamos para outro assunto neste dia
+
 Todas tecnologias e metodologias tem seu lado bom e ruim, menos algumas
-Atenção AQUI CARALHOOO, se achas que o assunto não se encaixa para você, pergunte primeiro em práticas possíveis ao seu uso
-Repassem os conhecimentos recebidos, isso não é C* pode distribuir a vontade
-Quer saber mais sobre os assuntos, me pague um café
-Sugestões de assuntos coloquem na caixinha de perguntas que o Neli postará no Insta
+
+AtenÃ§Ã£o AQUI CARALHOOO, se achas que o assunto nÃ£o se encaixa para vocÃª, pergunte primeiro em prÃ¡ticas possÃ­veis ao seu uso
+
+Repassem os conhecimentos recebidos, isso nÃ£o Ã© C* pode distribuir a vontade
+
+Quer saber mais sobre os assuntos, me pague um cafÃ©
+
+SugestÃµes de assuntos coloquem na caixinha de perguntas que o Neli postarÃ¡ no Insta
 
 - [ ] Aula 1 - Containers
 - [ ] Aula 2 - Projeto Monolito NodeJS
-- [ ] Aula 3 - Padronizações de projetos
-- [ ] Aula 4 - Projetos em microserviços
+- [ ] Aula 3 - PadronizaÃ§Ãµes de projetos
+- [ ] Aula 4 - Projetos em microserviÃ§os
 - [ ] Aula 5 - Git e Gitflow
 - [ ] Aula 6 - Testes automatizados
 - [ ] Aula 7 - SQL
@@ -49,9 +55,9 @@ Sugestões de assuntos coloquem na caixinha de perguntas que o Neli postará no In
 
 Vamos iniciar com os [conceitos de containers](https://docs.docker.com/get-started/overview/)
 
-Mão na massa - [Criar e rodar um container](https://docs.docker.com/language/nodejs/build-images/)
+MÃ£o na massa - [Criar e rodar um container](https://docs.docker.com/language/nodejs/build-images/)
 
-Entendi, mas como faço? - [Comunicação entre containers e host](https://docs.docker.com/language/nodejs/develop/) 
+Entendi, mas como faÃ§o? - [ComunicaÃ§Ã£o entre containers e host](https://docs.docker.com/language/nodejs/develop/) 
 
 
 ## Aula 2
@@ -61,14 +67,14 @@ Monolito
     - Banco de dados [Mysql](https://hub.docker.com/_/mysql)
     - Proxy
  
-* Qual a importância do [desing de APIs](https://br.sensedia.com/post/api-rest-design-7-essential-tips)?
+* Qual a importÃ¢ncia do [desing de APIs](https://br.sensedia.com/post/api-rest-design-7-essential-tips)?
 
-* O que é [API REST](https://ezdevs.com.br/comecando-uma-api-rest-com-node-js/)? 
+* O que Ã© [API REST](https://ezdevs.com.br/comecando-uma-api-rest-com-node-js/)? 
 
 * O que [ORM](https://www.treinaweb.com.br/blog/o-que-e-orm)? 
 
 * [Sequelize](https://sequelize.org/master/)
- 
+
 * [Aplicação CRUD](https://expressjs.com/pt-br/starter/hello-world.html)
 
     Iniciar a instância do Mysql no docker
@@ -78,30 +84,31 @@ Monolito
 
     - Usuário - E se já tiver a tabela? [A mágica acontece](https://github.com/sequelize/sequelize-auto)
 
+
 ## Aula 3
 
 EM BREVE
 
 ## Aula 4
 
-Microserviços
-    - Serviço 1
-    * Serviço externo 
+MicroserviÃ§os
+    - ServiÃ§o 1
+    * ServiÃ§o externo 
 
 
-    - Serviço 2
+    - ServiÃ§o 2
     * Banco de dados
 
 
-    - Serviço 3
+    - ServiÃ§o 3
     * Bancode dados 2
 
 
-    - Serviço 4 
+    - ServiÃ§o 4 
     * Message Broker
 
 
-    - Serviço 5
+    - ServiÃ§o 5
     * Gerenciamento de Pipeline
 
 ## Aula 5
