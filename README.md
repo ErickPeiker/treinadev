@@ -1,6 +1,6 @@
-# Sejam bem vindos ao curso bÃ¡sico para PROJETOS MARAVILINDOS!
+# Sejam bem vindos ao curso básico para PROJETOS TESUDOS!
 
-## Eu sou Erick Jonathan Peiker - :computer: JÃ¡ fui desenvolvedor Fullstack!
+## Eu sou Erick Jonathan Peiker - :computer: Já fui desenvolvedor Fullstack!
 
 <!--ts-->
    * [Requisitos](#Requisitos)
@@ -26,26 +26,26 @@
 
 ## Aulas
 
-PeÃ§o as seguintes contribuiÃ§Ãµes para nossas conversas serem produtivas:
+Peço as seguintes contribuições para nossas conversas serem produtivas:
 
-NÃ£o chute os amiguinhos
+Não chute os amiguinhos
 
-NINGUÃ‰M SABE TUDO, se travou o aovivo, pulamos para outro assunto neste dia
+NINGUÉM SABE TUDO, se travou o aovivo, pulamos para outro assunto neste dia
 
 Todas tecnologias e metodologias tem seu lado bom e ruim, menos algumas
 
-AtenÃ§Ã£o AQUI CARALHOOO, se achas que o assunto nÃ£o se encaixa para vocÃª, pergunte primeiro em prÃ¡ticas possÃ­veis ao seu uso
+Atenção AQUI CARALHOOO, se achas que o assunto não se encaixa para você, pergunte primeiro em práticas possíveis ao seu uso
 
-Repassem os conhecimentos recebidos, isso nÃ£o Ã© C* pode distribuir a vontade
+Repassem os conhecimentos recebidos, isso não é C* pode distribuir a vontade
 
-Quer saber mais sobre os assuntos, me pague um cafÃ©
+Quer saber mais sobre os assuntos, me pague um café
 
-SugestÃµes de assuntos coloquem na caixinha de perguntas que o Neli postarÃ¡ no Insta
+Sugestões de assuntos coloquem na caixinha de perguntas que o Neli postará no Insta
 
-- [ ] Aula 1 - Containers
-- [ ] Aula 2 - Projeto Monolito NodeJS
-- [ ] Aula 3 - PadronizaÃ§Ãµes de projetos
-- [ ] Aula 4 - Projetos em microserviÃ§os
+- [x] Aula 1 - Containers
+- [x] Aula 2 - Projeto Monolito NodeJS
+- [ ] Aula 3 - Padronizações de projetos
+- [ ] Aula 4 - Projetos em microserviços
 - [ ] Aula 5 - Git e Gitflow
 - [ ] Aula 6 - Testes automatizados
 - [ ] Aula 7 - SQL
@@ -55,9 +55,9 @@ SugestÃµes de assuntos coloquem na caixinha de perguntas que o Neli postarÃ¡ no 
 
 Vamos iniciar com os [conceitos de containers](https://docs.docker.com/get-started/overview/)
 
-MÃ£o na massa - [Criar e rodar um container](https://docs.docker.com/language/nodejs/build-images/)
+Mão na massa - [Criar e rodar um container](https://docs.docker.com/language/nodejs/build-images/)
 
-Entendi, mas como faÃ§o? - [ComunicaÃ§Ã£o entre containers e host](https://docs.docker.com/language/nodejs/develop/) 
+Entendi, mas como faço? - [ComunicaÃ§Ã£o entre containers e host](https://docs.docker.com/language/nodejs/develop/) 
 
 
 ## Aula 2
@@ -67,9 +67,9 @@ Monolito
     - Banco de dados [Mysql](https://hub.docker.com/_/mysql)
     - Proxy
  
-* Qual a importÃ¢ncia do [desing de APIs](https://br.sensedia.com/post/api-rest-design-7-essential-tips)?
+* Qual a importância do [desing de APIs](https://br.sensedia.com/post/api-rest-design-7-essential-tips)?
 
-* O que Ã© [API REST](https://ezdevs.com.br/comecando-uma-api-rest-com-node-js/)? 
+* O que é [API REST](https://ezdevs.com.br/comecando-uma-api-rest-com-node-js/)? 
 
 * O que [ORM](https://www.treinaweb.com.br/blog/o-que-e-orm)? 
 
@@ -78,8 +78,11 @@ Monolito
 * [Aplicação CRUD](https://expressjs.com/pt-br/starter/hello-world.html)
 
     Iniciar a instância do Mysql no docker
+
     Conectar com um client no Mysql
+
     Rodar o script : /aula2/config/script-aula2.sql
+
     Rodar o comando : /aula2/config/sequelize-auto.cmd
 
     - Usuário - E se já tiver a tabela? [A mágica acontece](https://github.com/sequelize/sequelize-auto)
@@ -87,28 +90,36 @@ Monolito
 
 ## Aula 3
 
-EM BREVE
+    As aplicações possuem camadas com o intuito de deixar o sistema com responsabilidades específicas, em alguns momentos parece 
+
+    Camadas mais comuns das aplicações
+
+    * Middleware ou Filters = Antes mesmo que as requisições cheguem na próxima camada pode haver tratamentos para que o sistema fique por exemplo: Mais seguro, mais padronizado, menos repetições e etc...
+
+    * Router ou Controllers = São utilizados para receber as requisições e utilizar as informações de requisição e respostas que o servidor irá oferecer aos seus clientes.
+
+    * Service = São os arquivos que tratam dados e se comunicam com camadas de serviço, por exemplo: Banco de dados, serviços de e-mail, serviços de terceiros, serviços de erro, serviço de log e etc...
+
+    * DAO ou Data = São as camadas que conversam com o banco de dados ou com o ORM
+
 
 ## Aula 4
 
-MicroserviÃ§os
-    - ServiÃ§o 1
-    * ServiÃ§o externo 
+Microserviços
 
+    - Serviço 1
+    * Serviço externo 
 
-    - ServiÃ§o 2
+    - Serviço 2
     * Banco de dados
 
-
-    - ServiÃ§o 3
+    - Serviço 3
     * Bancode dados 2
 
-
-    - ServiÃ§o 4 
+    - Serviço 4 
     * Message Broker
 
-
-    - ServiÃ§o 5
+    - Serviço 5
     * Gerenciamento de Pipeline
 
 ## Aula 5
