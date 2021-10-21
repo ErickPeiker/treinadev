@@ -90,17 +90,27 @@ Monolito
 
 ## Aula 3
 
-    As aplicações possuem camadas com o intuito de deixar o sistema com responsabilidades específicas, em alguns momentos parece 
+    As aplicações possuem camadas com o intuito de deixar o sistema com responsabilidades específicas
+    
+    Em alguns momentos parece repetitivos os passos, mas isso deixa sua aplicação mais escalável e isso vale a pena!
 
     Camadas mais comuns das aplicações
 
-    * Middleware ou Filters = Antes mesmo que as requisições cheguem na próxima camada pode haver tratamentos para que o sistema fique por exemplo: Mais seguro, mais padronizado, menos repetições e etc...
+    - Middleware ou Filters 
+    
+    Antes mesmo que as requisições cheguem na próxima camada pode haver tratamentos para que o sistema fique por exemplo: Mais seguro, mais padronizado, menos repetições e etc...
 
-    * Router ou Controllers = São utilizados para receber as requisições e utilizar as informações de requisição e respostas que o servidor irá oferecer aos seus clientes.
+    - Router ou Controllers 
+    
+    São utilizados para receber as requisições e utilizar as informações de requisição e respostas que o servidor irá oferecer aos seus clientes.
 
-    * Service = São os arquivos que tratam dados e se comunicam com camadas de serviço, por exemplo: Banco de dados, serviços de e-mail, serviços de terceiros, serviços de erro, serviço de log e etc...
+    - Service 
+    
+    São os arquivos que tratam dados e se comunicam com camadas de serviço, por exemplo: Banco de dados, serviços de e-mail, serviços de terceiros, serviços de erro, serviço de log e etc...
 
-    * DAO ou Data = São as camadas que conversam com o banco de dados ou com o ORM
+    - DAO ou Data
+    
+    São as camadas que conversam com o banco de dados ou com o ORM
 
 
 ## Aula 4
